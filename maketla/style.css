@@ -1,0 +1,474 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+/* header start */
+header{
+    width: 100%;
+}
+header .navbar{
+    width: 90%;
+    font-size: 18px;
+    font-family: sans-serif;
+    position: relative;
+    top: 30px;
+    left: 50px;
+}
+header .nav ul{
+    width:25%;
+    display: flex;
+    justify-content: space-evenly;
+     position: relative;
+     left: 75%;
+     top: -40px;
+}
+header .nav ul li a{
+    color: gray;
+}
+header .nav ul li a:hover{
+    color: black;
+}
+header .bar{
+    width: 50%;
+}
+header .bar h1{
+    font-size:40px;
+    position: relative;
+     left: 200px;
+     top: 30px;
+}
+header .bar p{
+    font-size: 40px;
+    color: red;
+    position: relative;
+    left: 200px;
+    top: 30px;
+}
+header .bar h2{
+    position: relative;
+    top:50px;
+    top: 100px;
+    left: 180px;
+    font-size: 20px;
+    font-family: sans-serif;
+    color: gray;
+}
+header .bar img{
+    width: 80%;
+    position: relative;
+    left: 800px;
+    top: -280px;
+}
+header button{
+    width: 200px;
+    height: 45px;
+    border: 1px solid gray;
+    border-radius: 20px;
+    position: relative;
+    top: -500px;
+    left: 200px;
+}
+header .nimaa i{
+ line-height: 35px;
+    color: white;
+position: relative;
+left: 1400px;
+bottom: 700px;
+font-size: 30px;
+}
+header .icon{
+    width: 200px;
+    height: 50px;
+    display: flex;
+   position: relative;
+left: 45%;
+top: -500px;
+justify-content: space-evenly;
+}
+header .icon i{
+    width: 10px;
+    height: 10px;
+    border: 1px solid gray;
+    border-radius: 50%;
+}
+header .icon i:hover{
+    background-color: rgba(54, 51, 51);
+}
+header .gap{
+margin-left: 45%;
+margin-top: -430px;
+font-size: 20px;
+font-family: sans-serif;
+}
+header .gap_2{
+    font-size: 9px;
+    font-family: sans-serif; 
+   margin-top: 30px;
+    margin-left: 650px;
+    color: gray;
+}
+header .master i{
+width: 350px;
+height: 250px;
+color: red;
+margin-left:200px ;
+margin-top: 100px;
+font-size: 50px;
+}
+header .book{
+    margin-top: -150px;
+margin-left: 200px;
+}
+header .book h1{
+color: gray;
+font-size: 20px;
+font-family: sans-serif;
+
+}
+header .book span{
+    font-family: sans-serif;
+    font-size: 35px;
+}
+header .book p{
+    font-size: 25px;
+}
+header .cow{
+    margin-top: -190px;
+margin-left: 750px;
+}
+header .cow h1{
+color: gray;
+font-size: 20px;
+font-family: sans-serif;
+
+}
+header .cow span{
+    font-family: sans-serif;
+    font-size: 35px;
+}
+header .cow p{
+    font-size: 25px;
+}
+header .cat{
+    margin-top: -190px;
+margin-left: 78%;
+}
+header .cat h1{
+color: gray;
+font-size: 20px;
+font-family: sans-serif;
+
+}
+header .cat span{
+    font-family: sans-serif;
+    font-size: 35px;
+}
+header .cat p{
+    font-size: 25px;
+}
+/* header end */
+/* section start */
+section .tel h1{
+    font-family: sans-serif;
+    font-size: 50px;
+    margin-top: 300px;
+    margin-left: 130px;
+    margin-bottom: 70px;
+}
+section .te_l img{
+    width: 50%;
+    height: 60%;
+    margin-left: 50%;
+    margin-top: -300px;
+}
+section button{
+    width: 200px;
+    height: 45px;
+    border: 1px solid gray;
+    border-radius: 20px;
+position: relative;
+top:-350px;
+left: 130px;
+}
+section hr{
+    width: 30%;
+    border: 1px solid gray;
+    margin-top: -300px;
+    margin-left: 120px;
+}
+section .color{
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-left: 120px;
+    margin-top: 50px;
+}
+section .img img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-top: 30px;
+    margin-left: 110px;
+}
+section .img h1{
+    margin-left: 300px;
+    margin-top: -120px;
+}
+section .img p{
+    margin-left: 300px 
+}
+section .daftar img{
+    width: 50%;
+    height: 50%;
+    margin-top: 100px;
+}
+section .opan h1{
+    font-family: sans-serif;
+    font-size: 50px;
+    margin-left: 60%;
+    margin-top: -650px;
+}
+   section .dog{
+    margin-top: 400px;
+    margin-left: 880px;
+   } 
+   section .dog button{
+    width: 200px;
+    height: 45px;
+    border: 1px solid gray;
+    border-radius: 20px;
+position: relative;
+top:-350px;
+left: 130px;
+}
+section .dog hr{
+    width: 60%;
+    border: 1px solid gray;
+    margin-top: -300px;
+    margin-left: 120px;
+}
+section .color_2{
+    font-family: sans-serif;
+    font-size: 15px;
+    margin-left: 60%;
+    margin-top: -200px;
+}
+section .img_2 img{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    margin-top: 30px;
+    margin-left: 60%;
+}
+section .img_2 h1{
+    margin-left: 70%;
+    margin-top: -120px;
+}
+section .img_2 p{
+    margin-left: 70%; 
+}
+section .na_v{
+    margin-top: 300px;
+    font-family: sans-serif;
+    font-size: 40px;
+    margin-left: 35%;
+}
+section .na_v u{
+    margin-left: 150px;
+  font-size: 30px;
+  color: gray;
+}
+section .na_v p{
+    font-size: 22px;
+    color: gray;
+    margin-top:6px;
+}
+section .madi img{
+    margin-top: 150px;
+ width: 328px;
+ height: 500px;
+}
+section .tele button{
+    width: 250px;
+    height: 50px;
+    border: 1px solid gray;
+    border-radius: 20px;
+position: relative;
+top:120px;
+left: 45%;
+ }
+main .gul_i h1{
+    font-family: sans-serif;
+    font-size: 50px;
+    margin-top: 300px;
+    margin-left: 35%; 
+}
+ main .gul_i p{
+    font-size: 18px;
+    margin-top: 3px; 
+    margin-left: 39%;
+color: gray;
+}
+main .not img{
+width: 250px;
+height: 270px;
+margin-left: 400px;
+margin-top: 100px;
+}
+main .not h1{
+    margin-left: 430px;
+}
+main .not p{
+    margin-left: 430px;
+}
+main .note{
+    margin-top: -310px;
+    margin-left: 750px;
+}
+main .note img{
+    width: 250px;
+height: 270px;
+}
+main .oo{
+    margin-top: -300px;
+    margin-left: 1100px;
+}
+main .oo img{
+    width: 250px;
+    height: 270px;
+}
+main .mm{
+margin-left: 400px;
+margin-top: 20px;
+}
+main .mm img{
+    width: 250px;
+    height: 270px;
+}
+main .nn{
+    margin-top: -330px;
+    margin-left: 1100px;
+}
+main .nn img{
+    width: 250px;
+    height: 270px;
+}
+main .ii{
+margin-left: 750px;
+margin-top:-300px;
+}
+main .ii img{
+    width: 250px;
+    height: 270px;
+}
+footer .fff h1{
+    font-family: sans-serif;
+    font-size: 60px;
+    margin-top: 200px;
+    margin-left: 700px;
+}
+footer .fff p{
+    font-size: 20px;
+    margin-left: 750px;
+    color: gray;
+}
+footer .pin{
+    width: 90%;
+    display: flex;
+    margin: auto;
+    justify-content: space-evenly;
+    margin-top: 180px;
+}
+footer .pin h1{
+font-size: 70px;
+color: red;
+}
+footer .uvtt{
+    width: 90%;
+    display: flex;
+    margin: auto;
+}
+footer .uvtt p{
+font-size: 23px;
+margin-left: 180px;
+margin-top: 20px;
+}
+footer .ovv{
+    width: 90%;
+    display: flex;
+    margin: auto;
+}
+footer .ovv p{
+font-size: 23px;
+margin-left: 500px;
+margin-top: -23px;
+}
+footer .yy{
+    width: 90%;
+    display: flex;
+    margin: auto;
+}
+footer .yy p{
+font-size: 23px;
+margin-left:870px;
+margin-top: -23px;
+}
+footer .ww{
+    width: 90%;
+    display: flex;
+    margin: auto;
+}
+footer .ww p{
+font-size: 23px;
+margin-left:1180px;
+margin-top: -25px;
+}
+footer .aa{
+    width: 100%;
+    height: 300px;
+    background-color: black;
+    margin-top: 230px;
+}
+footer .aa h1{
+    font-family: sans-serif;
+    font-size: 50px;
+    margin-left: 130px;
+    position: relative;
+    top: 70px;
+    color: white;
+}
+footer .zz{
+    margin-left: 350px;
+    margin-top: -100px;
+}
+footer .zz ul{
+    width:25%;
+    display: flex;
+    justify-content: space-evenly;
+     position: relative;
+ left: 350px;
+ top: -100px;
+}
+footer .zz ul li a:hover{
+    color:aqua;
+}
+footer .zz ul li a{
+    color:white;
+}
+footer .ss{
+    color: white;
+  margin-left: 77%;
+  margin-top: -120px;
+}
+footer .ss i{
+  font-size: 28px;
+margin-left: 15px;
+}
+footer hr{
+    width: 82%;
+    border: 2px solid rgb(46, 44, 44);
+    margin-top: 70px;
+    margin-left: 130px;
+}
